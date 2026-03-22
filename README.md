@@ -1,6 +1,6 @@
 - 👋 @ManikantVengal
-- 👀 interested in PYTHON, SQL, FRONTEND
-- 🌱 currently learning COMP SCI
+- 👀 interested in JAVA, SQL, FRONTEND
+- 🌱 currently learning COMP SCI 
 - 📌 looking to collaborate on small projects
 - 📫 Email: manikantvengal2@gmail.com
 
